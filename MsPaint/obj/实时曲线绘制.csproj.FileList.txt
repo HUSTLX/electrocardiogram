@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\实时曲线绘制.Form1.resources
+obj\Debug\实时曲线绘制.Properties.Resources.resources
+obj\Debug\实时曲线绘制.csproj.GenerateResource.Cache
+bin\Debug\实时曲线绘制.exe
+bin\Debug\实时曲线绘制.pdb
+obj\Debug\实时曲线绘制.exe
+obj\Debug\实时曲线绘制.pdb
